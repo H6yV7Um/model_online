@@ -1,0 +1,76 @@
+apiVersion: extensions/v1beta1 
+kind: Deployment 
+metadata:
+  name: wide-and-deep-feed-ml
+  labels:
+    app: wide-and-deep-feed-ml
+spec:
+  replicas: 2
+  template:
+    metadata:
+      labels:
+        app: wide-and-deep-feed-ml
+    spec:
+      hostNetwork: true
+      hostPID: true
+      dnsPolicy: Default
+      nodeSelector:
+        node: qktest 
+      containers:
+        - name: wide-and-deep-feed-ml
+          image: registry.intra.weibo.com/weibo_rd_algorithmplatform/dnn_prod:v1.0
+          imagePullPolicy: IfNotPresent
+          securityContext:
+            privileged: false
+          ports:
+            - containerPort: 17090
+          env:
+          - name: ENV_SERVICE_NAME
+            value: "wide_and_deep_feed_ml"
+          - name: ENV_SERVICE_PORT
+            value: "17090"
+          - name: ENV_MODEL_VERSION 
+            value: "20180515151330"
+          volumeMounts:
+            - mountPath: /etc/localtime
+              name: localtime
+              readOnly: true
+            - mountPath: /data1/work/datasys/framework/service/workspace/plugin/wide_and_deep_feed_ml
+              name: service
+            - mountPath: /data1/work/datasys/framework/service/workspace/log
+              name: log
+            - mountPath: /data1/work/datasys/framework/service/monitor/log
+              name: monitor
+            - mountPath: /watch/log
+              name: watch
+            - mountPath: /corefile
+              name: corefile
+            - mountPath: /data1/work/datasys/framework/service/workspace/temp
+              name: temp
+            - mountPath: /data1/work/datasys/framework/service/workspace/bin/etc
+              name: etc
+      volumes:
+        - hostPath:
+            path: /etc/localtime
+          name: localtime
+        - hostPath:
+            path: /data1/service/17090/wide_and_deep_feed_ml
+          name: service
+        - hostPath:
+            path: /data1/service/17090/log
+          name: log
+        - hostPath:
+            path: /data1/service/17090/log/monitor
+          name: monitor
+        - hostPath:
+            path: /data1/service/17090/log/watch
+          name: watch
+        - hostPath:
+            path: /data1/service/17090/log/corefile
+          name: corefile
+        - hostPath:
+            path: /data1/service/17090/temp
+          name: temp
+        - hostPath:
+            path: /data1/service/17090/etc
+          name: etc

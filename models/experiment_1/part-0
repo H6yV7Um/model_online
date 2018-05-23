@@ -1,0 +1,8 @@
+version 1
+solver_type L2R_LR
+nr_class 2
+label 0 1
+nr_feature 500
+bias 0
+type fold
+w

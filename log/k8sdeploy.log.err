@@ -1,0 +1,25 @@
+2018-04-18 10:46:06,806	k8sdeploy.log	ERROR	generate yaml status:256
+2018-04-18 10:46:06,806	k8sdeploy.log	ERROR	generate yaml output:Traceback (most recent call last):
+  File "./deploy/render_template.py", line 6, in <module>
+    import jinja2
+ImportError: No module named jinja2
+2018-04-18 10:49:27,832	k8sdeploy.log	ERROR	generate yaml status:256
+2018-04-18 10:49:27,832	k8sdeploy.log	ERROR	generate yaml output:Traceback (most recent call last):
+  File "./deploy/render_template.py", line 6, in <module>
+    import jinja2
+ImportError: No module named jinja2
+2018-04-24 10:59:39,486	k8sdeploy.log	ERROR	generate yaml status:256
+2018-04-24 10:59:39,486	k8sdeploy.log	ERROR	generate yaml output:Traceback (most recent call last):
+  File "./deploy/render_template.py", line 6, in <module>
+    import jinja2
+ImportError: No module named jinja2
+2018-04-24 11:08:17,489	k8sdeploy.log	ERROR	generate yaml status:256
+2018-04-24 11:08:17,489	k8sdeploy.log	ERROR	generate yaml output:Traceback (most recent call last):
+  File "./deploy/render_template.py", line 6, in <module>
+    import jinja2
+ImportError: No module named jinja2
+2018-04-24 17:05:48,393	k8sdeploy.log	ERROR	generate yaml status:256
+2018-04-24 17:05:48,393	k8sdeploy.log	ERROR	generate yaml output:Traceback (most recent call last):
+  File "./deploy/render_template.py", line 6, in <module>
+    import jinja2
+ImportError: No module named jinja2

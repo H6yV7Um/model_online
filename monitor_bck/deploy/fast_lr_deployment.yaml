@@ -1,0 +1,69 @@
+apiVersion: extensions/v1beta1 
+kind: Deployment 
+metadata:
+  name: fast-lr
+  labels:
+    app: fast-lr
+spec:
+  replicas: 2
+  template:
+    metadata:
+      labels:
+        app: fast-lr
+    spec:
+      hostNetwork: true
+      hostPID: true
+      dnsPolicy: Default
+      nodeSelector:
+        node: qktest
+      containers:
+        - name: fast-lr
+          image: registry.intra.weibo.com/weibo_rd_algorithmplatform/modelservice_lr:v1.0
+          imagePullPolicy: IfNotPresent
+          securityContext:
+            privileged: false
+          ports:
+            - containerPort: 17080
+          env:
+          - name: ENV_SERVICE_NAME
+            value: "fast_lr"
+          - name: ENV_SERVICE_PORT
+            value: "17080"
+          volumeMounts:
+            - mountPath: /etc/localtime
+              name: localtime
+              readOnly: true
+            - mountPath: /data1/work/datasys/framework/service/workspace/plugin/fast_lr
+              name: service
+            - mountPath: /data1/work/datasys/framework/service/workspace/log
+              name: log
+            - mountPath: /data1/work/datasys/framework/service/monitor/log
+              name: monitor
+            - mountPath: /watch/log
+              name: watch
+            - mountPath: /corefile
+              name: corefile
+            - mountPath: /data1/work/datasys/framework/service/monitor/temp
+              name: temp
+      volumes:
+        - hostPath:
+            path: /etc/localtime
+          name: localtime
+        - hostPath:
+            path: /data1/service/17080/fast_lr
+          name: service
+        - hostPath:
+            path: /data1/service/17080/log
+          name: log
+        - hostPath:
+            path: /data1/service/17080/log/monitor
+          name: monitor
+        - hostPath:
+            path: /data1/service/17080/log/watch
+          name: watch
+        - hostPath:
+            path: /data1/service/17080/log/corefile
+          name: corefile
+        - hostPath:
+            path: /data1/service/17080/temp
+          name: temp

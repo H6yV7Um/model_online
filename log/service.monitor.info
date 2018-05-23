@@ -1,0 +1,996 @@
+2018-04-12 14:51:56,539	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/
+2018-04-12 14:51:56,732	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412142721/
+20180412142721/20180412142721.tar.gz
+20180412142721/model.md5
+
+sent 82 bytes  received 1568899 bytes  3137962.00 bytes/sec
+total size is 1568501  speedup is 1.00
+, stderr:
+2018-04-12 15:35:06,339	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/
+2018-04-12 15:35:06,528	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412142721/
+20180412142721/20180412142721.tar.gz
+20180412142721/model.md5
+
+sent 82 bytes  received 1568899 bytes  3137962.00 bytes/sec
+total size is 1568501  speedup is 1.00
+, stderr:
+2018-04-12 16:44:58,242	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/
+2018-04-12 16:44:58,432	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412142721/
+20180412142721/20180412142721.tar.gz
+20180412142721/model.md5
+
+sent 82 bytes  received 1568899 bytes  3137962.00 bytes/sec
+total size is 1568501  speedup is 1.00
+, stderr:
+2018-04-12 16:47:15,639	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/
+2018-04-12 16:47:15,832	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412142721/
+20180412142721/20180412142721.tar.gz
+20180412142721/model.md5
+
+sent 82 bytes  received 1568899 bytes  3137962.00 bytes/sec
+total size is 1568501  speedup is 1.00
+, stderr:
+2018-04-12 16:50:42,429	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/
+2018-04-12 16:51:19,045	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/
+2018-04-12 16:51:24,311	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412142721/
+20180412142721/20180412142721.tar.gz
+20180412142721/model.md51
+
+sent 82 bytes  received 1568904 bytes  285270.18 bytes/sec
+total size is 1568501  speedup is 1.00
+, stderr:
+2018-04-12 16:51:51,411	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/
+2018-04-12 16:51:51,612	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412142721/
+20180412142721/20180412142721.tar.gz
+20180412142721/model.md5
+
+sent 82 bytes  received 1568903 bytes  3137970.00 bytes/sec
+total size is 1568501  speedup is 1.00
+, stderr:
+2018-04-12 16:52:10,384	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/
+2018-04-12 16:52:10,576	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412142721/
+20180412142721/.model.md5.swp
+20180412142721/20180412142721.tar.gz
+20180412142721/model.md5
+
+sent 101 bytes  received 1581258 bytes  3162718.00 bytes/sec
+total size is 1580789  speedup is 1.00
+, stderr:
+2018-04-12 16:52:19,757	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/
+2018-04-12 16:52:19,950	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412142721/
+20180412142721/.model.md5.swp
+20180412142721/20180412142721.tar.gz
+20180412142721/model.md5
+
+sent 101 bytes  received 1581259 bytes  3162720.00 bytes/sec
+total size is 1580790  speedup is 1.00
+, stderr:
+2018-04-12 16:52:27,530	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/
+2018-04-12 16:52:27,726	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412142721/
+20180412142721/20180412142721.tar.gz
+20180412142721/model.md5
+
+sent 82 bytes  received 1568908 bytes  3137980.00 bytes/sec
+total size is 1568502  speedup is 1.00
+, stderr:
+2018-04-12 16:53:08,320	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/
+2018-04-12 16:53:08,515	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412142721/
+20180412142721/20180412142721.tar.gz
+20180412142721/model.md5
+
+sent 82 bytes  received 1568908 bytes  3137980.00 bytes/sec
+total size is 1568502  speedup is 1.00
+, stderr:
+2018-04-12 16:53:31,066	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/
+2018-04-12 16:53:31,267	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412142721/
+20180412142721/20180412142721.tar.gz
+20180412142721/model.md5
+
+sent 82 bytes  received 1568908 bytes  3137980.00 bytes/sec
+total size is 1568502  speedup is 1.00
+, stderr:
+2018-04-12 16:55:03,608	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/
+2018-04-12 16:55:03,804	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412142721/
+20180412142721/20180412142721.tar.gz
+20180412142721/model.md5
+
+sent 82 bytes  received 1568908 bytes  3137980.00 bytes/sec
+total size is 1568502  speedup is 1.00
+, stderr:
+2018-04-12 16:58:57,426	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/
+2018-04-12 16:58:57,634	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412142721/
+20180412142721/20180412142721.tar.gz
+20180412142721/model.md5
+
+sent 82 bytes  received 1568908 bytes  3137980.00 bytes/sec
+total size is 1568502  speedup is 1.00
+, stderr:
+2018-04-12 17:00:08,176	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/
+2018-04-12 17:00:08,365	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412142721/
+20180412142721/20180412142721.tar.gz
+20180412142721/model.md5
+
+sent 82 bytes  received 1568908 bytes  3137980.00 bytes/sec
+total size is 1568502  speedup is 1.00
+, stderr:
+2018-04-12 17:02:08,349	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/
+2018-04-12 17:02:08,543	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412142721/
+20180412142721/20180412142721.tar.gz
+20180412142721/model.md5
+
+sent 82 bytes  received 1568908 bytes  3137980.00 bytes/sec
+total size is 1568502  speedup is 1.00
+, stderr:
+2018-04-12 17:02:41,609	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/
+2018-04-12 17:02:41,801	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412142721/
+20180412142721/20180412142721.tar.gz
+20180412142721/model.md5
+
+sent 82 bytes  received 1568908 bytes  3137980.00 bytes/sec
+total size is 1568502  speedup is 1.00
+, stderr:
+2018-04-12 17:02:50,062	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/
+2018-04-12 17:02:50,256	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412142721/
+20180412142721/20180412142721.tar.gz
+20180412142721/model.md5
+
+sent 82 bytes  received 1568908 bytes  3137980.00 bytes/sec
+total size is 1568502  speedup is 1.00
+, stderr:
+2018-04-12 17:03:48,779	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/
+2018-04-12 17:03:48,972	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412142721/
+20180412142721/20180412142721.tar.gz
+20180412142721/model.md5
+
+sent 82 bytes  received 1568908 bytes  3137980.00 bytes/sec
+total size is 1568502  speedup is 1.00
+, stderr:
+2018-04-12 17:04:50,483	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/
+2018-04-12 17:04:50,674	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412142721 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412142721/
+20180412142721/20180412142721.tar.gz
+20180412142721/model.md5
+
+sent 82 bytes  received 1568908 bytes  3137980.00 bytes/sec
+total size is 1568502  speedup is 1.00
+, stderr:
+2018-04-12 17:06:34,483	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170626 /data1/service/hdfs/temp/
+2018-04-12 17:06:34,678	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170626 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412170626/
+20180412170626/20180412170626.tar.gz
+20180412170626/model.md5
+
+sent 82 bytes  received 1568894 bytes  3137952.00 bytes/sec
+total size is 1568496  speedup is 1.00
+, stderr:
+2018-04-12 17:07:58,550	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170626 /data1/service/hdfs/temp/
+2018-04-12 17:07:58,742	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170626 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412170626/
+20180412170626/20180412170626.tar.gz
+20180412170626/model.md5
+
+sent 82 bytes  received 1568894 bytes  3137952.00 bytes/sec
+total size is 1568496  speedup is 1.00
+, stderr:
+2018-04-12 17:08:14,579	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170626 /data1/service/hdfs/temp/
+2018-04-12 17:08:14,770	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170626 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412170626/
+20180412170626/20180412170626.tar.gz
+20180412170626/model.md5
+
+sent 82 bytes  received 1568894 bytes  3137952.00 bytes/sec
+total size is 1568496  speedup is 1.00
+, stderr:
+2018-04-12 17:08:40,929	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170626 /data1/service/hdfs/temp/
+2018-04-12 17:08:41,125	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170626 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412170626/
+20180412170626/.model.md5.swp
+20180412170626/20180412170626.tar.gz
+20180412170626/model.md5
+
+sent 101 bytes  received 1581253 bytes  1054236.00 bytes/sec
+total size is 1580784  speedup is 1.00
+, stderr:
+2018-04-12 17:10:00,352	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170626 /data1/service/hdfs/temp/
+2018-04-12 17:10:00,542	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170626 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412170626/
+20180412170626/.model.md5.swp
+20180412170626/20180412170626.tar.gz
+20180412170626/model.md5
+
+sent 101 bytes  received 1581257 bytes  3162716.00 bytes/sec
+total size is 1580784  speedup is 1.00
+, stderr:
+2018-04-12 17:10:46,107	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170626 /data1/service/hdfs/temp/
+2018-04-12 17:10:46,301	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170626 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412170626/
+20180412170626/.model.md5.swp
+20180412170626/20180412170626.tar.gz
+20180412170626/model.md5
+
+sent 101 bytes  received 1581258 bytes  3162718.00 bytes/sec
+total size is 1580785  speedup is 1.00
+, stderr:
+2018-04-12 17:10:47,770	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170626 /data1/service/hdfs/temp/
+2018-04-12 17:10:47,961	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170626 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412170626/
+20180412170626/.model.md5.swp
+20180412170626/20180412170626.tar.gz
+20180412170626/model.md5
+
+sent 101 bytes  received 1581258 bytes  3162718.00 bytes/sec
+total size is 1580785  speedup is 1.00
+, stderr:
+2018-04-12 17:12:35,293	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170626 /data1/service/hdfs/temp/
+2018-04-12 17:12:35,486	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170626 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412170626/
+20180412170626/.model.md5.swp
+20180412170626/20180412170626.tar.gz
+20180412170626/model.md5
+
+sent 101 bytes  received 1581258 bytes  3162718.00 bytes/sec
+total size is 1580785  speedup is 1.00
+, stderr:
+2018-04-12 17:14:32,844	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170626 /data1/service/hdfs/temp/
+2018-04-12 17:14:33,032	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170626 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412170626/
+20180412170626/.model.md5.swp
+20180412170626/20180412170626.tar.gz
+20180412170626/model.md5
+
+sent 101 bytes  received 1581258 bytes  1054239.33 bytes/sec
+total size is 1580785  speedup is 1.00
+, stderr:
+2018-04-12 17:15:14,595	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170626 /data1/service/hdfs/temp/
+2018-04-12 17:15:14,784	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170626 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412170626/
+20180412170626/.model.md5.swp
+20180412170626/20180412170626.tar.gz
+20180412170626/model.md5
+
+sent 101 bytes  received 1581258 bytes  3162718.00 bytes/sec
+total size is 1580785  speedup is 1.00
+, stderr:
+2018-04-12 17:16:53,237	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170749 /data1/service/hdfs/temp/
+2018-04-12 17:16:53,431	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170749 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412170749/
+20180412170749/20180412170749.tar.gz
+20180412170749/model.md4
+20180412170749/model.md5
+
+sent 101 bytes  received 1568987 bytes  3138176.00 bytes/sec
+total size is 1568527  speedup is 1.00
+, stderr:
+2018-04-12 17:17:16,559	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170749 /data1/service/hdfs/temp/
+2018-04-12 17:17:16,753	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170749 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412170749/
+20180412170749/20180412170749.tar.gz
+20180412170749/model.md4
+20180412170749/model.md5
+
+sent 101 bytes  received 1568987 bytes  3138176.00 bytes/sec
+total size is 1568527  speedup is 1.00
+, stderr:
+2018-04-12 17:17:36,494	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170749 /data1/service/hdfs/temp/
+2018-04-12 17:17:36,683	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170749 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412170749/
+20180412170749/20180412170749.tar.gz
+20180412170749/model.md4
+20180412170749/model.md5
+
+sent 101 bytes  received 1568988 bytes  3138178.00 bytes/sec
+total size is 1568528  speedup is 1.00
+, stderr:
+2018-04-12 17:27:57,357	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170749 /data1/service/hdfs/temp/
+2018-04-12 17:27:57,612	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170749 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412170749/
+20180412170749/20180412170749.tar.gz
+20180412170749/model.md4
+20180412170749/model.md5
+
+sent 101 bytes  received 1568988 bytes  3138178.00 bytes/sec
+total size is 1568528  speedup is 1.00
+, stderr:
+2018-04-12 17:28:53,266	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170749 /data1/service/hdfs/temp/
+2018-04-12 17:28:53,460	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170749 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412170749/
+20180412170749/20180412170749.tar.gz
+20180412170749/model.md4
+20180412170749/model.md5
+
+sent 101 bytes  received 1568988 bytes  3138178.00 bytes/sec
+total size is 1568528  speedup is 1.00
+, stderr:
+2018-04-12 17:30:42,284	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170749 /data1/service/hdfs/temp/
+2018-04-12 17:30:42,472	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170749 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412170749/
+20180412170749/20180412170749.tar.gz
+20180412170749/model.md4
+20180412170749/model.md5
+
+sent 101 bytes  received 1568988 bytes  3138178.00 bytes/sec
+total size is 1568528  speedup is 1.00
+, stderr:
+2018-04-12 17:31:34,030	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170749 /data1/service/hdfs/temp/
+2018-04-12 17:31:34,220	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170749 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412170749/
+20180412170749/20180412170749.tar.gz
+20180412170749/model.md4
+20180412170749/model.md5
+
+sent 101 bytes  received 1568988 bytes  3138178.00 bytes/sec
+total size is 1568528  speedup is 1.00
+, stderr:
+2018-04-12 17:33:21,905	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170749 /data1/service/hdfs/temp/
+2018-04-12 17:33:22,100	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170749 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412170749/
+20180412170749/20180412170749.tar.gz
+20180412170749/model.md4
+20180412170749/model.md5
+
+sent 101 bytes  received 1568987 bytes  1046058.67 bytes/sec
+total size is 1568527  speedup is 1.00
+, stderr:
+2018-04-12 17:40:49,356	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170749 /data1/service/hdfs/temp/
+2018-04-12 17:40:49,550	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170749 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412170749/
+20180412170749/20180412170749.tar.gz
+20180412170749/model.md4
+20180412170749/model.md5
+
+sent 101 bytes  received 1568987 bytes  3138176.00 bytes/sec
+total size is 1568527  speedup is 1.00
+, stderr:
+2018-04-12 17:59:34,757	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170749 /data1/service/hdfs/temp/
+2018-04-12 17:59:34,950	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170749 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412170749/
+20180412170749/20180412170749.tar.gz
+20180412170749/model.md4
+20180412170749/model.md5
+
+sent 101 bytes  received 1568987 bytes  3138176.00 bytes/sec
+total size is 1568527  speedup is 1.00
+, stderr:
+2018-04-12 18:00:46,038	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170749 /data1/service/hdfs/temp/
+2018-04-12 18:00:46,233	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170749 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412170749/
+20180412170749/20180412170749.tar.gz
+20180412170749/model.md4
+20180412170749/model.md5
+
+sent 101 bytes  received 1568987 bytes  3138176.00 bytes/sec
+total size is 1568527  speedup is 1.00
+, stderr:
+2018-04-12 18:01:12,995	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170749 /data1/service/hdfs/temp/
+2018-04-12 18:01:13,186	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170749 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412170749/
+20180412170749/20180412170749.tar.gz
+20180412170749/model.md4
+20180412170749/model.md5
+
+sent 101 bytes  received 1568987 bytes  1046058.67 bytes/sec
+total size is 1568527  speedup is 1.00
+, stderr:
+2018-04-12 18:01:43,600	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170749 /data1/service/hdfs/temp/
+2018-04-12 18:01:43,798	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170749 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412170749/
+20180412170749/20180412170749.tar.gz
+20180412170749/model.md4
+20180412170749/model.md5
+
+sent 101 bytes  received 1568987 bytes  3138176.00 bytes/sec
+total size is 1568527  speedup is 1.00
+, stderr:
+2018-04-12 18:02:23,569	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170749 /data1/service/hdfs/temp/
+2018-04-12 18:02:23,760	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412170749 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412170749/
+20180412170749/20180412170749.tar.gz
+20180412170749/model.md4
+20180412170749/model.md5
+
+sent 101 bytes  received 1568987 bytes  3138176.00 bytes/sec
+total size is 1568527  speedup is 1.00
+, stderr:
+2018-04-12 18:03:06,731	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412180258 /data1/service/hdfs/temp/
+2018-04-12 18:03:06,921	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412180258 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412180258/
+20180412180258/20180412180258.tar.gz
+20180412180258/20180412180258md5
+
+sent 82 bytes  received 1568887 bytes  3137938.00 bytes/sec
+total size is 1568495  speedup is 1.00
+, stderr:
+2018-04-12 18:04:30,444	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412180423 /data1/service/hdfs/temp/
+2018-04-12 18:04:30,638	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412180423 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412180423/
+20180412180423/20180412180423.md5
+20180412180423/20180412180423.tar.gz
+
+sent 82 bytes  received 1568884 bytes  3137932.00 bytes/sec
+total size is 1568492  speedup is 1.00
+, stderr:
+2018-04-12 18:06:31,867	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412180625 /data1/service/hdfs/temp/
+2018-04-12 18:06:32,060	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412180625 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412180625/
+20180412180625/20180412180625.md5
+20180412180625/20180412180625.tar.gz
+
+sent 82 bytes  received 1568892 bytes  1045982.67 bytes/sec
+total size is 1568500  speedup is 1.00
+, stderr:
+2018-04-12 18:07:12,285	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412180705 /data1/service/hdfs/temp/
+2018-04-12 18:07:12,478	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412180705 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412180705/
+20180412180705/20180412180705.md5
+20180412180705/20180412180705.tar.gz
+
+sent 82 bytes  received 1568888 bytes  3137940.00 bytes/sec
+total size is 1568496  speedup is 1.00
+, stderr:
+2018-04-12 18:08:26,287	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412180819 /data1/service/hdfs/temp/
+2018-04-12 18:08:26,473	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412180819 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412180819/
+20180412180819/20180412180819.md5
+20180412180819/20180412180819.tar.gz
+
+sent 82 bytes  received 1568881 bytes  3137926.00 bytes/sec
+total size is 1568489  speedup is 1.00
+, stderr:
+2018-04-12 18:09:24,065	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412180917 /data1/service/hdfs/temp/
+2018-04-12 18:09:24,255	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412180917 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412180917/
+20180412180917/20180412180917.md5
+20180412180917/20180412180917.tar.gz
+
+sent 82 bytes  received 1568881 bytes  3137926.00 bytes/sec
+total size is 1568489  speedup is 1.00
+, stderr:
+2018-04-12 18:11:47,973	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412180917 /data1/service/hdfs/temp/
+2018-04-12 18:11:48,167	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412180917 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412180917/
+20180412180917/20180412180917.md5
+20180412180917/20180412180917.tar.gz
+
+sent 82 bytes  received 1568881 bytes  1045975.33 bytes/sec
+total size is 1568489  speedup is 1.00
+, stderr:
+2018-04-12 18:11:59,412	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412180917 /data1/service/hdfs/temp/
+2018-04-12 18:11:59,604	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412180917 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412180917/
+20180412180917/20180412180917.md5
+20180412180917/20180412180917.tar.gz
+
+sent 82 bytes  received 1568881 bytes  3137926.00 bytes/sec
+total size is 1568489  speedup is 1.00
+, stderr:
+2018-04-12 18:13:06,514	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412180917 /data1/service/hdfs/temp/
+2018-04-12 18:13:06,705	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412180917 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412180917/
+20180412180917/20180412180917.md5
+20180412180917/20180412180917.tar.gz
+
+sent 82 bytes  received 1568881 bytes  3137926.00 bytes/sec
+total size is 1568489  speedup is 1.00
+, stderr:
+2018-04-12 18:15:59,993	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412180917 /data1/service/hdfs/temp/
+2018-04-12 18:16:00,186	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412180917 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412180917/
+20180412180917/20180412180917.md5
+20180412180917/20180412180917.tar.gz
+
+sent 82 bytes  received 1568881 bytes  1045975.33 bytes/sec
+total size is 1568489  speedup is 1.00
+, stderr:
+2018-04-12 18:16:34,075	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412180917 /data1/service/hdfs/temp/
+2018-04-12 18:16:34,266	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412180917 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412180917/
+20180412180917/20180412180917.md5
+20180412180917/20180412180917.tar.gz
+
+sent 82 bytes  received 1568881 bytes  3137926.00 bytes/sec
+total size is 1568489  speedup is 1.00
+, stderr:
+2018-04-12 18:17:42,251	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412180917 /data1/service/hdfs/temp/
+2018-04-12 18:17:42,444	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412180917 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412180917/
+20180412180917/20180412180917.md5
+20180412180917/20180412180917.tar.gz
+
+sent 82 bytes  received 1568881 bytes  3137926.00 bytes/sec
+total size is 1568489  speedup is 1.00
+, stderr:
+2018-04-12 18:18:56,987	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412180917 /data1/service/hdfs/temp/
+2018-04-12 18:18:57,180	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412180917 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412180917/
+20180412180917/20180412180917.md5
+20180412180917/20180412180917.tar.gz
+
+sent 82 bytes  received 1568881 bytes  1045975.33 bytes/sec
+total size is 1568489  speedup is 1.00
+, stderr:
+2018-04-12 18:19:44,248	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412180917 /data1/service/hdfs/temp/
+2018-04-12 18:19:44,439	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412180917 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412180917/
+20180412180917/20180412180917.md5
+20180412180917/20180412180917.tar.gz
+
+sent 82 bytes  received 1568881 bytes  3137926.00 bytes/sec
+total size is 1568489  speedup is 1.00
+, stderr:
+2018-04-12 18:21:41,308	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412180917 /data1/service/hdfs/temp/
+2018-04-12 18:21:41,502	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412180917 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412180917/
+20180412180917/20180412180917.md5
+20180412180917/20180412180917.tar.gz
+
+sent 82 bytes  received 1568881 bytes  3137926.00 bytes/sec
+total size is 1568489  speedup is 1.00
+, stderr:
+2018-04-12 18:22:17,264	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-12 18:22:17,454	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  3137406.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-12 18:58:31,733	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-12 18:58:31,928	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  3137406.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-12 18:59:04,643	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-12 18:59:04,836	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  3137406.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-12 19:00:37,891	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-12 19:00:38,081	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  1045802.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-12 19:01:29,590	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-12 19:01:29,782	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  3137406.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-12 19:02:02,969	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-12 19:02:03,170	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  1045802.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-12 19:05:08,865	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-12 19:05:09,058	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  1045802.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-12 19:08:07,031	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-12 19:08:07,218	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  3137406.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-12 19:08:47,388	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-12 19:08:47,581	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  3137406.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-12 19:11:08,744	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-12 19:11:08,936	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  3137406.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-12 19:11:52,855	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-12 19:11:53,052	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  1045802.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-12 19:12:15,819	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-12 19:12:16,012	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  3137406.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-12 19:13:12,435	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-12 19:13:12,624	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  3137406.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-12 19:13:36,370	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-12 19:13:36,561	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  3137406.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-12 19:13:59,695	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-12 19:13:59,888	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  3137406.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-12 19:14:46,029	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-12 19:14:46,222	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  3137406.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-12 19:17:17,700	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-12 19:17:17,893	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  3137406.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-12 19:18:06,207	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-12 19:18:06,411	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  3137406.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-12 19:18:50,014	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-12 19:18:50,206	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  3137406.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-12 19:19:32,466	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-12 19:19:32,665	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  3137406.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-12 19:20:19,783	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-12 19:20:19,977	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  3137406.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-12 19:21:42,930	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-12 19:21:43,132	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  1045802.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-12 19:22:40,727	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-12 19:22:40,928	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  3137406.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-12 19:32:51,622	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-12 19:32:51,814	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  3137406.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-12 19:33:50,954	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-12 19:33:51,144	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  1045802.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-12 19:34:45,081	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-12 19:34:45,274	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  3137406.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-12 19:35:32,098	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-12 19:35:32,293	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  3137406.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-12 19:36:07,191	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-12 19:36:07,381	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  3137406.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-12 19:37:13,185	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-12 19:37:13,380	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  3137406.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-12 19:37:40,997	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-12 19:37:41,189	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  3137406.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-12 19:41:14,933	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-12 19:41:15,125	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  1045802.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-12 19:43:01,744	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-12 19:43:01,934	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  3137406.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-12 19:43:39,476	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-12 19:43:39,666	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  3137406.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-13 14:27:05,674	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-13 14:27:05,929	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  3137406.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-13 14:31:31,086	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-13 14:31:31,339	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  3137406.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-13 14:33:06,747	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-13 14:33:06,939	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  3137406.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-13 14:33:48,322	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-13 14:33:48,514	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  3137406.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-13 14:35:37,981	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-13 14:35:38,174	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  1045802.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-13 14:36:35,773	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/
+2018-04-13 14:36:35,966	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180412182209 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180412182209/
+20180412182209/20180412182209.md5
+20180412182209/20180412182209.tar.gz
+
+sent 82 bytes  received 1568621 bytes  3137406.00 bytes/sec
+total size is 1568229  speedup is 1.00
+, stderr:
+2018-04-13 14:38:03,678	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180413143756 /data1/service/hdfs/temp/
+2018-04-13 14:38:03,867	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180413143756 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180413143756/
+20180413143756/20180413143756.md5
+20180413143756/20180413143756.tar.gz
+
+sent 82 bytes  received 1568626 bytes  3137416.00 bytes/sec
+total size is 1568234  speedup is 1.00
+, stderr:
+2018-04-13 14:38:45,554	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180413143838 /data1/service/hdfs/temp/
+2018-04-13 14:38:45,744	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180413143838 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180413143838/
+20180413143838/20180413143838.md5
+20180413143838/20180413143838.tar.gz
+
+sent 82 bytes  received 1568624 bytes  3137412.00 bytes/sec
+total size is 1568232  speedup is 1.00
+, stderr:
+2018-04-13 16:47:04,044	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180413164651 /data1/service/hdfs/temp/
+2018-04-13 16:47:04,234	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180413164651 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180413164651/
+20180413164651/20180413164651.md5
+20180413164651/20180413164651.tar.gz
+
+sent 82 bytes  received 1568640 bytes  3137444.00 bytes/sec
+total size is 1568240  speedup is 1.00
+, stderr:
+2018-04-13 16:51:44,033	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180413165135 /data1/service/hdfs/temp/
+2018-04-13 16:51:44,226	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180413165135 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180413165135/
+20180413165135/20180413165135.md5
+20180413165135/20180413165135.tar.gz
+
+sent 82 bytes  received 1568637 bytes  3137438.00 bytes/sec
+total size is 1568237  speedup is 1.00
+, stderr:
+2018-04-13 16:53:11,487	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180413165300 /data1/service/hdfs/temp/
+2018-04-13 16:53:11,680	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180413165300 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180413165300/
+20180413165300/20180413165300.md5
+20180413165300/20180413165300.tar.gz
+
+sent 82 bytes  received 1568625 bytes  3137414.00 bytes/sec
+total size is 1568233  speedup is 1.00
+, stderr:
+2018-04-13 16:55:15,113	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180413165504 /data1/service/hdfs/temp/
+2018-04-13 16:55:15,313	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180413165504 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180413165504/
+20180413165504/20180413165504.md5
+20180413165504/20180413165504.tar.gz
+
+sent 82 bytes  received 1568622 bytes  3137408.00 bytes/sec
+total size is 1568230  speedup is 1.00
+, stderr:
+2018-04-13 16:57:18,135	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180413165504 /data1/service/hdfs/temp/
+2018-04-13 16:57:18,326	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180413165504 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180413165504/
+20180413165504/20180413165504.md5
+20180413165504/20180413165504.tar.gz
+
+sent 82 bytes  received 1568622 bytes  3137408.00 bytes/sec
+total size is 1568230  speedup is 1.00
+, stderr:
+2018-04-13 17:02:20,039	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180413165504 /data1/service/hdfs/temp/
+2018-04-13 17:02:20,234	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180413165504 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180413165504/
+20180413165504/20180413165504.md5
+20180413165504/20180413165504.tar.gz
+
+sent 82 bytes  received 1568622 bytes  3137408.00 bytes/sec
+total size is 1568230  speedup is 1.00
+, stderr:
+2018-04-13 17:04:18,495	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180413165504 /data1/service/hdfs/temp/
+2018-04-13 17:04:18,681	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180413165504 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180413165504/
+20180413165504/20180413165504.md5
+20180413165504/20180413165504.tar.gz
+
+sent 82 bytes  received 1568622 bytes  3137408.00 bytes/sec
+total size is 1568230  speedup is 1.00
+, stderr:
+2018-04-13 17:04:47,193	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180413165504 /data1/service/hdfs/temp/
+2018-04-13 17:04:47,383	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180413165504 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180413165504/
+20180413165504/20180413165504.md5
+20180413165504/20180413165504.tar.gz
+
+sent 82 bytes  received 1568622 bytes  3137408.00 bytes/sec
+total size is 1568230  speedup is 1.00
+, stderr:
+2018-04-13 17:06:08,356	service.monitor	begin to run cmd:rsync -av 10.39.12.41::datamining_service/fast_lr/20180413165504 /data1/service/hdfs/temp/
+2018-04-13 17:06:08,549	service.monitor	run cmd rsync -av 10.39.12.41::datamining_service/fast_lr/20180413165504 /data1/service/hdfs/temp/ success, rc:0, stdout:receiving incremental file list
+20180413165504/
+20180413165504/20180413165504.md5
+20180413165504/20180413165504.tar.gz
+
+sent 82 bytes  received 1568622 bytes  3137408.00 bytes/sec
+total size is 1568230  speedup is 1.00
+, stderr:

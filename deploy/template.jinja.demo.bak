@@ -1,0 +1,82 @@
+{%- set service_name = "$service_name" -%}
+{%- set model_version = "$model_version" -%}
+{%- set meta_name = "$meta_name" -%}
+{%- set port = "$port" -%}
+{%- set docker_image_tag = "$docker_image_tag" -%}
+
+apiVersion: extensions/v1beta1 
+kind: Deployment 
+metadata:
+  name: {{ meta_name }}
+  labels:
+    app: {{ meta_name }}
+spec:
+  replicas: 2
+  template:
+    metadata:
+      labels:
+        app: {{ meta_name }}
+    spec:
+      hostNetwork: true
+      hostPID: true
+      dnsPolicy: Default
+      nodeSelector:
+        node: qktest 
+      containers:
+        - name: {{ meta_name }}
+          image: {{ docker_image_tag }}
+          imagePullPolicy: IfNotPresent
+          securityContext:
+            privileged: false
+          ports:
+            - containerPort: {{ port }}
+          env:
+          - name: ENV_SERVICE_NAME
+            value: "{{ service_name }}"
+          - name: ENV_SERVICE_PORT
+            value: "{{ port }}"
+          - name: ENV_MODEL_VERSION 
+            value: "{{ model_version }}"
+          volumeMounts:
+            - mountPath: /etc/localtime
+              name: localtime
+              readOnly: true
+            - mountPath: /data1/work/datasys/framework/service/workspace/plugin/{{ service_name }}
+              name: service
+            - mountPath: /data1/work/datasys/framework/service/workspace/log
+              name: log
+            - mountPath: /data1/work/datasys/framework/service/monitor/log
+              name: monitor
+            - mountPath: /watch/log
+              name: watch
+            - mountPath: /corefile
+              name: corefile
+            - mountPath: /data1/work/datasys/framework/service/workspace/temp
+              name: temp
+            - mountPath: /data1/work/datasys/framework/service/workspace/bin/etc
+              name: etc
+      volumes:
+        - hostPath:
+            path: /etc/localtime
+          name: localtime
+        - hostPath:
+            path: /data1/service/{{ port }}/{{ service_name }}
+          name: service
+        - hostPath:
+            path: /data1/service/{{ port }}/log
+          name: log
+        - hostPath:
+            path: /data1/service/{{ port }}/log/monitor
+          name: monitor
+        - hostPath:
+            path: /data1/service/{{ port }}/log/watch
+          name: watch
+        - hostPath:
+            path: /data1/service/{{ port }}/log/corefile
+          name: corefile
+        - hostPath:
+            path: /data1/service/{{ port }}/temp
+          name: temp
+        - hostPath:
+            path: /data1/service/{{ port }}/etc
+          name: etc

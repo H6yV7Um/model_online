@@ -1,0 +1,739 @@
+2018-04-18 10:46:06,771	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-18 10:46:06,786	k8sdeploy.log	finish generate jinjia
+2018-04-18 10:46:06,806	k8sdeploy.log	finish generate yaml
+2018-04-18 10:49:27,798	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-18 10:49:27,810	k8sdeploy.log	finish generate jinjia
+2018-04-18 10:49:27,832	k8sdeploy.log	finish generate yaml
+2018-04-18 10:51:53,746	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-18 10:51:53,756	k8sdeploy.log	finish generate jinjia
+2018-04-18 10:51:53,822	k8sdeploy.log	finish generate yaml
+2018-04-18 10:56:16,724	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-18 10:56:16,737	k8sdeploy.log	finish generate jinjia
+2018-04-18 10:56:16,817	k8sdeploy.log	finish generate yaml
+2018-04-18 11:01:50,181	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-18 11:01:50,192	k8sdeploy.log	finish generate jinjia
+2018-04-18 11:01:50,266	k8sdeploy.log	finish generate yaml
+2018-04-18 13:54:40,465	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-18 13:54:40,478	k8sdeploy.log	finish generate jinjia
+2018-04-18 13:54:40,561	k8sdeploy.log	finish generate yaml
+2018-04-18 13:58:02,490	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-18 13:58:02,503	k8sdeploy.log	finish generate jinjia
+2018-04-18 13:58:02,571	k8sdeploy.log	finish generate yaml
+2018-04-18 14:35:59,600	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-18 14:35:59,613	k8sdeploy.log	finish generate jinjia
+2018-04-18 14:35:59,694	k8sdeploy.log	finish generate yaml
+2018-04-18 14:38:30,826	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-18 14:38:30,839	k8sdeploy.log	finish generate jinjia
+2018-04-18 14:38:30,905	k8sdeploy.log	finish generate yaml
+2018-04-18 14:38:49,770	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-18 14:38:49,783	k8sdeploy.log	finish generate jinjia
+2018-04-18 14:38:49,865	k8sdeploy.log	finish generate yaml
+2018-04-18 14:40:45,251	k8sdeploy.log	deploy_dir is:./kubectl
+2018-04-18 14:41:12,992	k8sdeploy.log	deploy_dir is:.
+2018-04-18 14:41:13,000	k8sdeploy.log	finish generate jinjia
+2018-04-18 14:41:13,070	k8sdeploy.log	finish generate yaml
+2018-04-18 14:43:43,663	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-18 14:43:43,673	k8sdeploy.log	finish generate jinjia
+2018-04-18 14:43:43,734	k8sdeploy.log	finish generate yaml
+2018-04-18 14:50:29,488	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-18 14:50:29,499	k8sdeploy.log	finish generate jinjia
+2018-04-18 14:50:29,571	k8sdeploy.log	finish generate yaml
+2018-04-18 15:34:31,543	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-18 15:34:31,559	k8sdeploy.log	finish generate jinjia
+2018-04-18 15:34:31,627	k8sdeploy.log	finish generate yaml
+2018-04-18 16:05:59,961	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-18 16:05:59,975	k8sdeploy.log	finish generate jinjia
+2018-04-18 16:06:00,050	k8sdeploy.log	finish generate yaml
+2018-04-18 16:11:33,963	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-18 16:11:33,975	k8sdeploy.log	finish generate jinjia
+2018-04-18 16:11:34,042	k8sdeploy.log	finish generate yaml
+2018-04-18 16:14:51,430	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-18 16:14:51,443	k8sdeploy.log	finish generate jinjia
+2018-04-18 16:14:51,516	k8sdeploy.log	finish generate yaml
+2018-04-18 16:17:59,463	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-18 16:17:59,478	k8sdeploy.log	finish generate jinjia
+2018-04-18 16:17:59,556	k8sdeploy.log	finish generate yaml
+2018-04-18 16:56:35,629	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-18 16:56:35,642	k8sdeploy.log	finish generate jinjia
+2018-04-18 16:56:35,735	k8sdeploy.log	finish generate yaml
+2018-04-18 16:56:55,046	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-18 16:56:55,057	k8sdeploy.log	finish generate jinjia
+2018-04-18 16:56:55,138	k8sdeploy.log	finish generate yaml
+2018-04-18 16:57:53,894	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-18 16:57:53,908	k8sdeploy.log	finish generate jinjia
+2018-04-18 16:57:53,989	k8sdeploy.log	finish generate yaml
+2018-04-18 16:59:07,097	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-18 16:59:07,111	k8sdeploy.log	finish generate jinjia
+2018-04-18 16:59:07,204	k8sdeploy.log	finish generate yaml
+2018-04-18 17:01:21,442	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-18 17:01:21,457	k8sdeploy.log	finish generate jinjia
+2018-04-18 17:01:21,523	k8sdeploy.log	finish generate yaml
+2018-04-18 17:03:56,865	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-18 17:03:56,879	k8sdeploy.log	finish generate jinjia
+2018-04-18 17:03:56,962	k8sdeploy.log	finish generate yaml
+2018-04-18 17:06:19,647	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-18 17:06:19,663	k8sdeploy.log	finish generate jinjia
+2018-04-18 17:06:19,747	k8sdeploy.log	finish generate yaml
+2018-04-18 17:07:18,451	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-18 17:07:18,462	k8sdeploy.log	finish generate jinjia
+2018-04-18 17:07:18,553	k8sdeploy.log	finish generate yaml
+2018-04-18 17:08:23,769	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-18 17:08:23,782	k8sdeploy.log	finish generate jinjia
+2018-04-18 17:08:23,850	k8sdeploy.log	finish generate yaml
+2018-04-18 17:09:10,889	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-18 17:09:10,899	k8sdeploy.log	finish generate jinjia
+2018-04-18 17:09:10,966	k8sdeploy.log	finish generate yaml
+2018-04-18 17:09:31,671	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-18 17:09:31,681	k8sdeploy.log	finish generate jinjia
+2018-04-18 17:09:31,769	k8sdeploy.log	finish generate yaml
+2018-04-18 17:35:52,066	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-18 17:35:52,082	k8sdeploy.log	finish generate jinjia
+2018-04-18 17:35:52,153	k8sdeploy.log	finish generate yaml
+2018-04-18 17:45:59,380	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-18 17:45:59,392	k8sdeploy.log	finish generate jinjia
+2018-04-18 17:45:59,460	k8sdeploy.log	finish generate yaml
+2018-04-19 10:10:46,266	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-19 10:10:46,278	k8sdeploy.log	finish generate jinjia
+2018-04-19 10:10:46,347	k8sdeploy.log	finish generate yaml
+2018-04-19 10:15:13,773	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-19 10:15:13,787	k8sdeploy.log	finish generate jinjia
+2018-04-19 10:15:13,873	k8sdeploy.log	finish generate yaml
+2018-04-19 10:25:49,620	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-19 10:25:49,634	k8sdeploy.log	finish generate jinjia
+2018-04-19 10:25:49,719	k8sdeploy.log	finish generate yaml
+2018-04-19 10:47:26,990	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-19 10:47:27,005	k8sdeploy.log	finish generate jinjia
+2018-04-19 10:47:27,086	k8sdeploy.log	finish generate yaml
+2018-04-19 10:49:59,626	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-19 10:49:59,638	k8sdeploy.log	finish generate jinjia
+2018-04-19 10:49:59,706	k8sdeploy.log	finish generate yaml
+2018-04-19 11:31:38,725	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-19 11:31:38,737	k8sdeploy.log	finish generate jinjia
+2018-04-19 11:31:38,801	k8sdeploy.log	finish generate yaml
+2018-04-19 11:32:09,146	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-19 11:32:09,160	k8sdeploy.log	finish generate jinjia
+2018-04-19 11:32:09,240	k8sdeploy.log	finish generate yaml
+2018-04-19 11:41:32,541	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-19 11:41:32,557	k8sdeploy.log	finish generate jinjia
+2018-04-19 11:41:32,645	k8sdeploy.log	finish generate yaml
+2018-04-19 13:23:32,583	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-19 13:23:32,595	k8sdeploy.log	finish generate jinjia
+2018-04-19 13:23:32,675	k8sdeploy.log	finish generate yaml
+2018-04-19 18:02:55,472	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-19 18:02:55,485	k8sdeploy.log	finish generate jinjia
+2018-04-19 18:02:55,561	k8sdeploy.log	finish generate yaml
+2018-04-19 20:14:52,961	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-19 20:14:52,971	k8sdeploy.log	finish generate jinjia
+2018-04-19 20:14:53,058	k8sdeploy.log	finish generate yaml
+2018-04-19 20:20:37,121	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-19 20:20:37,135	k8sdeploy.log	finish generate jinjia
+2018-04-19 20:20:37,208	k8sdeploy.log	finish generate yaml
+2018-04-19 20:25:20,565	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-19 20:25:20,578	k8sdeploy.log	finish generate jinjia
+2018-04-19 20:25:20,642	k8sdeploy.log	finish generate yaml
+2018-04-19 20:53:13,142	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-19 20:53:13,154	k8sdeploy.log	finish generate jinjia
+2018-04-19 20:53:13,223	k8sdeploy.log	finish generate yaml
+2018-04-19 20:56:36,370	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-19 20:56:36,387	k8sdeploy.log	finish generate jinjia
+2018-04-19 20:56:36,473	k8sdeploy.log	finish generate yaml
+2018-04-19 20:58:51,902	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-19 20:58:51,918	k8sdeploy.log	finish generate jinjia
+2018-04-19 20:58:52,001	k8sdeploy.log	finish generate yaml
+2018-04-19 21:16:34,583	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-19 21:16:34,600	k8sdeploy.log	finish generate jinjia
+2018-04-19 21:16:34,690	k8sdeploy.log	finish generate yaml
+2018-04-23 10:22:55,166	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-23 10:22:55,180	k8sdeploy.log	finish generate jinjia
+2018-04-23 10:22:55,260	k8sdeploy.log	finish generate yaml
+2018-04-23 10:30:38,616	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-23 10:30:38,633	k8sdeploy.log	finish generate jinjia
+2018-04-23 10:30:38,715	k8sdeploy.log	finish generate yaml
+2018-04-23 10:34:52,981	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-23 10:34:52,997	k8sdeploy.log	finish generate jinjia
+2018-04-23 10:34:53,067	k8sdeploy.log	finish generate yaml
+2018-04-23 10:35:47,400	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-23 10:35:47,417	k8sdeploy.log	finish generate jinjia
+2018-04-23 10:35:47,497	k8sdeploy.log	finish generate yaml
+2018-04-23 11:19:36,799	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-23 11:19:36,812	k8sdeploy.log	finish generate jinjia
+2018-04-23 11:19:36,879	k8sdeploy.log	finish generate yaml
+2018-04-23 11:26:26,994	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-23 11:26:27,007	k8sdeploy.log	finish generate jinjia
+2018-04-23 11:26:27,078	k8sdeploy.log	finish generate yaml
+2018-04-23 11:38:34,666	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-23 11:38:34,683	k8sdeploy.log	finish generate jinjia
+2018-04-23 11:38:34,761	k8sdeploy.log	finish generate yaml
+2018-04-23 12:12:39,470	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-23 12:12:39,487	k8sdeploy.log	finish generate jinjia
+2018-04-23 12:12:39,559	k8sdeploy.log	finish generate yaml
+2018-04-23 12:30:00,666	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-23 12:30:00,680	k8sdeploy.log	finish generate jinjia
+2018-04-23 12:30:00,752	k8sdeploy.log	finish generate yaml
+2018-04-23 13:59:36,462	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-23 13:59:36,477	k8sdeploy.log	finish generate jinjia
+2018-04-23 13:59:36,545	k8sdeploy.log	finish generate yaml
+2018-04-23 14:04:49,976	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-23 14:04:49,988	k8sdeploy.log	finish generate jinjia
+2018-04-23 14:04:50,085	k8sdeploy.log	finish generate yaml
+2018-04-23 14:23:26,316	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-23 14:23:26,331	k8sdeploy.log	finish generate jinjia
+2018-04-23 14:23:26,394	k8sdeploy.log	finish generate yaml
+2018-04-23 14:30:41,131	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-23 14:30:41,145	k8sdeploy.log	finish generate jinjia
+2018-04-23 14:30:41,214	k8sdeploy.log	finish generate yaml
+2018-04-23 14:37:56,766	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-23 14:37:56,783	k8sdeploy.log	finish generate jinjia
+2018-04-23 14:37:56,855	k8sdeploy.log	finish generate yaml
+2018-04-23 14:45:35,712	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-23 14:45:35,732	k8sdeploy.log	finish generate jinjia
+2018-04-23 14:45:35,810	k8sdeploy.log	finish generate yaml
+2018-04-23 14:57:13,414	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-23 14:57:13,429	k8sdeploy.log	finish generate jinjia
+2018-04-23 14:57:13,496	k8sdeploy.log	finish generate yaml
+2018-04-23 15:09:23,437	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-23 15:09:23,451	k8sdeploy.log	finish generate jinjia
+2018-04-23 15:09:23,520	k8sdeploy.log	finish generate yaml
+2018-04-23 15:20:52,624	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-23 15:20:52,641	k8sdeploy.log	finish generate jinjia
+2018-04-23 15:20:52,709	k8sdeploy.log	finish generate yaml
+2018-04-23 19:32:54,291	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-23 19:32:54,319	k8sdeploy.log	finish generate jinjia
+2018-04-23 19:32:54,388	k8sdeploy.log	finish generate yaml
+2018-04-23 19:44:46,543	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-23 19:44:46,557	k8sdeploy.log	finish generate jinjia
+2018-04-23 19:44:46,625	k8sdeploy.log	finish generate yaml
+2018-04-23 19:58:51,632	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-23 19:58:51,651	k8sdeploy.log	finish generate jinjia
+2018-04-23 19:58:51,737	k8sdeploy.log	finish generate yaml
+2018-04-23 20:26:58,287	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-23 20:26:58,309	k8sdeploy.log	finish generate jinjia
+2018-04-23 20:26:58,392	k8sdeploy.log	finish generate yaml
+2018-04-23 20:48:08,148	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-23 20:48:08,167	k8sdeploy.log	finish generate jinjia
+2018-04-23 20:48:08,245	k8sdeploy.log	finish generate yaml
+2018-04-23 21:13:52,348	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-23 21:13:52,363	k8sdeploy.log	finish generate jinjia
+2018-04-23 21:13:52,424	k8sdeploy.log	finish generate yaml
+2018-04-23 21:17:40,464	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-23 21:17:40,484	k8sdeploy.log	finish generate jinjia
+2018-04-23 21:17:40,563	k8sdeploy.log	finish generate yaml
+2018-04-23 21:32:01,730	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-23 21:32:01,744	k8sdeploy.log	finish generate jinjia
+2018-04-23 21:32:01,813	k8sdeploy.log	finish generate yaml
+2018-04-23 21:38:42,794	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-23 21:38:42,814	k8sdeploy.log	finish generate jinjia
+2018-04-23 21:38:42,896	k8sdeploy.log	finish generate yaml
+2018-04-23 21:44:26,651	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-23 21:44:26,669	k8sdeploy.log	finish generate jinjia
+2018-04-23 21:44:26,751	k8sdeploy.log	finish generate yaml
+2018-04-23 22:04:01,948	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-23 22:04:01,963	k8sdeploy.log	finish generate jinjia
+2018-04-23 22:04:02,034	k8sdeploy.log	finish generate yaml
+2018-04-23 22:14:48,876	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-23 22:14:48,896	k8sdeploy.log	finish generate jinjia
+2018-04-23 22:14:48,975	k8sdeploy.log	finish generate yaml
+2018-04-24 10:05:53,233	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-24 10:05:53,256	k8sdeploy.log	finish generate jinjia
+2018-04-24 10:05:53,344	k8sdeploy.log	finish generate yaml
+2018-04-24 10:16:20,532	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-24 10:16:20,554	k8sdeploy.log	finish generate jinjia
+2018-04-24 10:16:20,638	k8sdeploy.log	finish generate yaml
+2018-04-24 10:18:34,511	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-24 10:18:34,524	k8sdeploy.log	finish generate jinjia
+2018-04-24 10:18:34,590	k8sdeploy.log	finish generate yaml
+2018-04-24 10:32:06,228	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-24 10:32:06,250	k8sdeploy.log	finish generate jinjia
+2018-04-24 10:32:06,335	k8sdeploy.log	finish generate yaml
+2018-04-24 10:59:39,414	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-24 10:59:39,449	k8sdeploy.log	finish generate jinjia
+2018-04-24 10:59:39,486	k8sdeploy.log	finish generate yaml
+2018-04-24 10:59:55,188	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-24 10:59:55,201	k8sdeploy.log	finish generate jinjia
+2018-04-24 10:59:55,269	k8sdeploy.log	finish generate yaml
+2018-04-24 11:08:17,444	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-24 11:08:17,466	k8sdeploy.log	finish generate jinjia
+2018-04-24 11:08:17,489	k8sdeploy.log	finish generate yaml
+2018-04-24 11:08:24,098	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-24 11:08:24,120	k8sdeploy.log	finish generate jinjia
+2018-04-24 11:08:24,202	k8sdeploy.log	finish generate yaml
+2018-04-24 16:55:58,391	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-24 16:55:58,424	k8sdeploy.log	finish generate jinjia
+2018-04-24 16:55:58,494	k8sdeploy.log	finish generate yaml
+2018-04-24 17:05:48,319	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-24 17:05:48,357	k8sdeploy.log	finish generate jinjia
+2018-04-24 17:05:48,393	k8sdeploy.log	finish generate yaml
+2018-04-24 17:09:48,711	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-24 17:09:48,746	k8sdeploy.log	finish generate jinjia
+2018-04-24 17:09:48,862	k8sdeploy.log	finish generate yaml
+2018-04-24 18:09:10,856	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-24 18:09:10,888	k8sdeploy.log	finish generate jinjia
+2018-04-24 18:09:10,960	k8sdeploy.log	finish generate yaml
+2018-04-24 18:26:11,593	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-24 18:26:11,633	k8sdeploy.log	finish generate jinjia
+2018-04-24 18:26:11,725	k8sdeploy.log	finish generate yaml
+2018-04-24 19:39:25,234	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-24 19:39:25,271	k8sdeploy.log	finish generate jinjia
+2018-04-24 19:39:25,359	k8sdeploy.log	finish generate yaml
+2018-04-24 19:44:38,440	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-24 19:44:38,476	k8sdeploy.log	finish generate jinjia
+2018-04-24 19:44:38,562	k8sdeploy.log	finish generate yaml
+2018-04-25 12:23:00,894	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-25 12:23:00,927	k8sdeploy.log	finish generate jinjia
+2018-04-25 12:23:00,998	k8sdeploy.log	finish generate yaml
+2018-04-25 14:24:38,107	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-25 14:24:38,146	k8sdeploy.log	finish generate jinjia
+2018-04-25 14:24:38,245	k8sdeploy.log	finish generate yaml
+2018-04-25 14:27:31,481	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-25 14:27:31,516	k8sdeploy.log	finish generate jinjia
+2018-04-25 14:27:31,605	k8sdeploy.log	finish generate yaml
+2018-04-25 14:32:34,450	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-25 14:32:34,486	k8sdeploy.log	finish generate jinjia
+2018-04-25 14:32:34,572	k8sdeploy.log	finish generate yaml
+2018-04-25 16:06:30,339	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-25 16:06:30,373	k8sdeploy.log	finish generate jinjia
+2018-04-25 16:06:30,458	k8sdeploy.log	finish generate yaml
+2018-04-25 16:12:01,555	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-25 16:12:01,591	k8sdeploy.log	finish generate jinjia
+2018-04-25 16:12:01,666	k8sdeploy.log	finish generate yaml
+2018-04-25 16:20:04,417	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-25 16:20:04,444	k8sdeploy.log	finish generate jinjia
+2018-04-25 16:20:04,518	k8sdeploy.log	finish generate yaml
+2018-04-25 16:20:35,167	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-25 16:20:35,203	k8sdeploy.log	finish generate jinjia
+2018-04-25 16:20:35,287	k8sdeploy.log	finish generate yaml
+2018-04-25 16:56:49,629	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-25 16:56:49,673	k8sdeploy.log	finish generate jinjia
+2018-04-25 16:56:49,769	k8sdeploy.log	finish generate yaml
+2018-04-25 18:16:13,387	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-25 18:16:13,420	k8sdeploy.log	finish generate jinjia
+2018-04-25 18:16:13,508	k8sdeploy.log	finish generate yaml
+2018-04-25 18:23:35,360	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-25 18:23:35,388	k8sdeploy.log	finish generate jinjia
+2018-04-25 18:23:35,461	k8sdeploy.log	finish generate yaml
+2018-04-25 20:42:33,898	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-25 20:42:33,933	k8sdeploy.log	finish generate jinjia
+2018-04-25 20:42:34,018	k8sdeploy.log	finish generate yaml
+2018-04-26 11:08:29,852	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-26 11:08:29,893	k8sdeploy.log	finish generate jinjia
+2018-04-26 11:08:29,982	k8sdeploy.log	finish generate yaml
+2018-04-26 11:17:30,301	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-26 11:17:30,347	k8sdeploy.log	finish generate jinjia
+2018-04-26 11:17:30,447	k8sdeploy.log	finish generate yaml
+2018-04-26 11:20:33,413	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-26 11:20:33,443	k8sdeploy.log	finish generate jinjia
+2018-04-26 11:20:33,519	k8sdeploy.log	finish generate yaml
+2018-04-26 11:27:24,015	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-26 11:27:24,059	k8sdeploy.log	finish generate jinjia
+2018-04-26 11:27:24,155	k8sdeploy.log	finish generate yaml
+2018-04-26 12:37:20,190	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-26 12:37:20,240	k8sdeploy.log	finish generate jinjia
+2018-04-26 12:37:20,346	k8sdeploy.log	finish generate yaml
+2018-04-26 13:10:02,618	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-26 13:10:02,656	k8sdeploy.log	finish generate jinjia
+2018-04-26 13:10:02,741	k8sdeploy.log	finish generate yaml
+2018-04-26 13:49:22,148	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-26 13:49:22,187	k8sdeploy.log	finish generate jinjia
+2018-04-26 13:49:22,281	k8sdeploy.log	finish generate yaml
+2018-04-26 17:54:19,700	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-26 17:54:19,729	k8sdeploy.log	finish generate jinjia
+2018-04-26 17:54:19,803	k8sdeploy.log	finish generate yaml
+2018-04-27 14:40:50,483	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-27 14:40:50,516	k8sdeploy.log	finish generate jinjia
+2018-04-27 14:40:50,600	k8sdeploy.log	finish generate yaml
+2018-04-27 14:42:44,074	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-27 14:42:44,125	k8sdeploy.log	finish generate jinjia
+2018-04-27 14:42:44,218	k8sdeploy.log	finish generate yaml
+2018-04-27 15:07:44,949	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-27 15:07:45,001	k8sdeploy.log	finish generate jinjia
+2018-04-27 15:07:45,092	k8sdeploy.log	finish generate yaml
+2018-04-27 15:36:24,591	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-27 15:36:24,634	k8sdeploy.log	finish generate jinjia
+2018-04-27 15:36:24,720	k8sdeploy.log	finish generate yaml
+2018-04-27 15:53:39,558	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-27 15:53:39,606	k8sdeploy.log	finish generate jinjia
+2018-04-27 15:53:39,692	k8sdeploy.log	finish generate yaml
+2018-04-27 16:44:53,520	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-27 16:44:53,574	k8sdeploy.log	finish generate jinjia
+2018-04-27 16:44:53,667	k8sdeploy.log	finish generate yaml
+2018-04-27 16:58:58,487	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-27 16:58:58,520	k8sdeploy.log	finish generate jinjia
+2018-04-27 16:58:58,606	k8sdeploy.log	finish generate yaml
+2018-04-27 17:01:24,713	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-27 17:01:24,760	k8sdeploy.log	finish generate jinjia
+2018-04-27 17:01:24,861	k8sdeploy.log	finish generate yaml
+2018-04-27 17:03:36,958	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-27 17:03:36,999	k8sdeploy.log	finish generate jinjia
+2018-04-27 17:03:37,086	k8sdeploy.log	finish generate yaml
+2018-04-27 17:05:02,081	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-27 17:05:02,115	k8sdeploy.log	finish generate jinjia
+2018-04-27 17:05:02,202	k8sdeploy.log	finish generate yaml
+2018-04-27 20:00:11,401	k8sdeploy.log	deploy_dir is:./deploy
+2018-04-27 20:00:11,446	k8sdeploy.log	finish generate jinjia
+2018-04-27 20:00:11,529	k8sdeploy.log	finish generate yaml
+2018-05-02 16:14:35,302	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-02 16:14:35,342	k8sdeploy.log	finish generate jinjia
+2018-05-02 16:14:35,426	k8sdeploy.log	finish generate yaml
+2018-05-03 10:25:09,705	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-03 10:25:09,747	k8sdeploy.log	finish generate jinjia
+2018-05-03 10:25:09,834	k8sdeploy.log	finish generate yaml
+2018-05-03 14:55:42,796	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-03 14:55:42,866	k8sdeploy.log	finish generate jinjia
+2018-05-03 14:55:43,293	k8sdeploy.log	finish generate yaml
+2018-05-03 14:57:30,321	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-03 14:57:30,376	k8sdeploy.log	finish generate jinjia
+2018-05-03 14:57:30,467	k8sdeploy.log	finish generate yaml
+2018-05-03 15:09:14,205	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-03 15:09:14,258	k8sdeploy.log	finish generate jinjia
+2018-05-03 15:09:14,346	k8sdeploy.log	finish generate yaml
+2018-05-04 14:04:13,339	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-04 14:04:13,377	k8sdeploy.log	finish generate jinjia
+2018-05-04 14:04:13,540	k8sdeploy.log	finish generate yaml
+2018-05-04 14:10:06,425	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-04 14:10:06,457	k8sdeploy.log	finish generate jinjia
+2018-05-04 14:10:06,535	k8sdeploy.log	finish generate yaml
+2018-05-07 14:51:07,379	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-07 14:51:07,425	k8sdeploy.log	finish generate jinjia
+2018-05-07 14:51:07,514	k8sdeploy.log	finish generate yaml
+2018-05-07 14:59:47,933	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-07 14:59:48,003	k8sdeploy.log	finish generate jinjia
+2018-05-07 14:59:48,095	k8sdeploy.log	finish generate yaml
+2018-05-07 15:24:10,261	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-07 15:24:10,294	k8sdeploy.log	finish generate jinjia
+2018-05-07 15:24:10,371	k8sdeploy.log	finish generate yaml
+2018-05-07 15:28:15,743	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-07 15:28:15,776	k8sdeploy.log	finish generate jinjia
+2018-05-07 15:28:15,853	k8sdeploy.log	finish generate yaml
+2018-05-07 15:30:36,095	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-07 15:30:36,143	k8sdeploy.log	finish generate jinjia
+2018-05-07 15:30:36,245	k8sdeploy.log	finish generate yaml
+2018-05-07 16:11:04,649	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-07 16:11:04,688	k8sdeploy.log	finish generate jinjia
+2018-05-07 16:11:04,785	k8sdeploy.log	finish generate yaml
+2018-05-07 16:43:16,073	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-07 16:43:16,131	k8sdeploy.log	finish generate jinjia
+2018-05-07 16:43:16,225	k8sdeploy.log	finish generate yaml
+2018-05-07 16:57:44,173	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-07 16:57:44,234	k8sdeploy.log	finish generate jinjia
+2018-05-07 16:57:44,337	k8sdeploy.log	finish generate yaml
+2018-05-07 17:48:38,935	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-07 17:48:38,988	k8sdeploy.log	finish generate jinjia
+2018-05-07 17:48:39,074	k8sdeploy.log	finish generate yaml
+2018-05-07 17:53:16,739	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-07 17:53:16,796	k8sdeploy.log	finish generate jinjia
+2018-05-07 17:53:16,891	k8sdeploy.log	finish generate yaml
+2018-05-07 18:04:06,980	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-07 18:04:07,031	k8sdeploy.log	finish generate jinjia
+2018-05-07 18:04:07,122	k8sdeploy.log	finish generate yaml
+2018-05-07 18:52:22,740	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-07 18:52:22,792	k8sdeploy.log	finish generate jinjia
+2018-05-07 18:52:22,885	k8sdeploy.log	finish generate yaml
+2018-05-07 21:53:11,785	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-07 21:53:11,835	k8sdeploy.log	finish generate jinjia
+2018-05-07 21:53:11,947	k8sdeploy.log	finish generate yaml
+2018-05-07 22:01:15,212	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-07 22:01:15,270	k8sdeploy.log	finish generate jinjia
+2018-05-07 22:01:15,362	k8sdeploy.log	finish generate yaml
+2018-05-08 11:08:25,824	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-08 11:08:25,857	k8sdeploy.log	finish generate jinjia
+2018-05-08 11:08:25,998	k8sdeploy.log	finish generate yaml
+2018-05-08 11:29:13,358	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-08 11:29:13,421	k8sdeploy.log	finish generate jinjia
+2018-05-08 11:29:13,518	k8sdeploy.log	finish generate yaml
+2018-05-08 12:20:27,135	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-08 12:20:27,199	k8sdeploy.log	finish generate jinjia
+2018-05-08 12:20:27,300	k8sdeploy.log	finish generate yaml
+2018-05-08 15:03:42,670	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-08 15:03:42,727	k8sdeploy.log	finish generate jinjia
+2018-05-08 15:03:42,822	k8sdeploy.log	finish generate yaml
+2018-05-08 15:28:23,521	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-08 15:28:23,572	k8sdeploy.log	finish generate jinjia
+2018-05-08 15:28:23,665	k8sdeploy.log	finish generate yaml
+2018-05-08 15:41:40,329	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-08 15:41:40,395	k8sdeploy.log	finish generate jinjia
+2018-05-08 15:41:40,486	k8sdeploy.log	finish generate yaml
+2018-05-08 16:41:33,924	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-08 16:41:33,980	k8sdeploy.log	finish generate jinjia
+2018-05-08 16:41:34,071	k8sdeploy.log	finish generate yaml
+2018-05-09 14:13:20,909	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-09 14:13:20,960	k8sdeploy.log	finish generate jinjia
+2018-05-09 14:13:21,053	k8sdeploy.log	finish generate yaml
+2018-05-09 14:19:56,373	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-09 14:19:56,424	k8sdeploy.log	finish generate jinjia
+2018-05-09 14:19:56,521	k8sdeploy.log	finish generate yaml
+2018-05-09 17:42:25,692	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-09 17:42:25,757	k8sdeploy.log	finish generate jinjia
+2018-05-09 17:42:25,860	k8sdeploy.log	finish generate yaml
+2018-05-09 17:52:02,400	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-09 17:52:02,452	k8sdeploy.log	finish generate jinjia
+2018-05-09 17:52:02,541	k8sdeploy.log	finish generate yaml
+2018-05-09 17:53:56,960	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-09 17:53:57,014	k8sdeploy.log	finish generate jinjia
+2018-05-09 17:53:57,115	k8sdeploy.log	finish generate yaml
+2018-05-09 18:06:30,323	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-09 18:06:30,382	k8sdeploy.log	finish generate jinjia
+2018-05-09 18:06:30,477	k8sdeploy.log	finish generate yaml
+2018-05-09 18:10:12,986	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-09 18:10:13,030	k8sdeploy.log	finish generate jinjia
+2018-05-09 18:10:13,115	k8sdeploy.log	finish generate yaml
+2018-05-09 19:42:07,875	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-09 19:42:07,933	k8sdeploy.log	finish generate jinjia
+2018-05-09 19:42:08,023	k8sdeploy.log	finish generate yaml
+2018-05-09 19:46:53,414	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-09 19:46:53,479	k8sdeploy.log	finish generate jinjia
+2018-05-09 19:46:53,575	k8sdeploy.log	finish generate yaml
+2018-05-09 19:48:09,080	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-09 19:48:09,148	k8sdeploy.log	finish generate jinjia
+2018-05-09 19:48:09,241	k8sdeploy.log	finish generate yaml
+2018-05-09 19:50:30,671	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-09 19:50:30,727	k8sdeploy.log	finish generate jinjia
+2018-05-09 19:50:30,832	k8sdeploy.log	finish generate yaml
+2018-05-09 19:51:59,780	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-09 19:51:59,827	k8sdeploy.log	finish generate jinjia
+2018-05-09 19:51:59,915	k8sdeploy.log	finish generate yaml
+2018-05-09 19:55:33,905	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-09 19:55:33,961	k8sdeploy.log	finish generate jinjia
+2018-05-09 19:55:34,045	k8sdeploy.log	finish generate yaml
+2018-05-09 20:02:42,185	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-09 20:02:42,251	k8sdeploy.log	finish generate jinjia
+2018-05-09 20:02:42,356	k8sdeploy.log	finish generate yaml
+2018-05-09 21:22:56,115	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-09 21:22:56,182	k8sdeploy.log	finish generate jinjia
+2018-05-09 21:22:56,281	k8sdeploy.log	finish generate yaml
+2018-05-09 21:24:51,052	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-09 21:24:51,109	k8sdeploy.log	finish generate jinjia
+2018-05-09 21:24:51,201	k8sdeploy.log	finish generate yaml
+2018-05-10 10:40:37,023	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-10 10:40:37,081	k8sdeploy.log	finish generate jinjia
+2018-05-10 10:40:37,183	k8sdeploy.log	finish generate yaml
+2018-05-10 10:43:05,608	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-10 10:43:05,657	k8sdeploy.log	finish generate jinjia
+2018-05-10 10:43:05,738	k8sdeploy.log	finish generate yaml
+2018-05-10 11:00:39,335	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-10 11:00:39,380	k8sdeploy.log	finish generate jinjia
+2018-05-10 11:00:39,461	k8sdeploy.log	finish generate yaml
+2018-05-10 11:03:33,343	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-10 11:03:33,395	k8sdeploy.log	finish generate jinjia
+2018-05-10 11:03:33,486	k8sdeploy.log	finish generate yaml
+2018-05-10 11:04:25,513	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-10 11:04:25,568	k8sdeploy.log	finish generate jinjia
+2018-05-10 11:04:25,659	k8sdeploy.log	finish generate yaml
+2018-05-10 11:05:43,373	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-10 11:05:43,431	k8sdeploy.log	finish generate jinjia
+2018-05-10 11:05:43,532	k8sdeploy.log	finish generate yaml
+2018-05-10 11:06:59,114	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-10 11:06:59,182	k8sdeploy.log	finish generate jinjia
+2018-05-10 11:06:59,284	k8sdeploy.log	finish generate yaml
+2018-05-10 11:09:36,315	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-10 11:09:36,382	k8sdeploy.log	finish generate jinjia
+2018-05-10 11:09:36,481	k8sdeploy.log	finish generate yaml
+2018-05-10 11:11:01,881	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-10 11:11:01,937	k8sdeploy.log	finish generate jinjia
+2018-05-10 11:11:02,029	k8sdeploy.log	finish generate yaml
+2018-05-10 11:25:08,554	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-10 11:25:08,609	k8sdeploy.log	finish generate jinjia
+2018-05-10 11:25:08,700	k8sdeploy.log	finish generate yaml
+2018-05-10 11:32:42,121	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-10 11:32:42,168	k8sdeploy.log	finish generate jinjia
+2018-05-10 11:32:42,254	k8sdeploy.log	finish generate yaml
+2018-05-10 11:34:16,846	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-10 11:34:16,899	k8sdeploy.log	finish generate jinjia
+2018-05-10 11:34:16,992	k8sdeploy.log	finish generate yaml
+2018-05-10 11:36:06,681	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-10 11:36:06,746	k8sdeploy.log	finish generate jinjia
+2018-05-10 11:36:06,851	k8sdeploy.log	finish generate yaml
+2018-05-10 11:39:17,861	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-10 11:39:17,940	k8sdeploy.log	finish generate jinjia
+2018-05-10 11:39:18,043	k8sdeploy.log	finish generate yaml
+2018-05-10 11:41:02,748	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-10 11:41:02,798	k8sdeploy.log	finish generate jinjia
+2018-05-10 11:41:02,890	k8sdeploy.log	finish generate yaml
+2018-05-10 11:44:55,757	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-10 11:44:55,831	k8sdeploy.log	finish generate jinjia
+2018-05-10 11:44:55,936	k8sdeploy.log	finish generate yaml
+2018-05-10 11:51:40,706	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-10 11:51:40,748	k8sdeploy.log	finish generate jinjia
+2018-05-10 11:51:40,831	k8sdeploy.log	finish generate yaml
+2018-05-10 11:54:55,938	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-10 11:54:55,995	k8sdeploy.log	finish generate jinjia
+2018-05-10 11:54:56,087	k8sdeploy.log	finish generate yaml
+2018-05-10 11:56:44,344	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-10 11:56:44,399	k8sdeploy.log	finish generate jinjia
+2018-05-10 11:56:44,482	k8sdeploy.log	finish generate yaml
+2018-05-10 11:58:08,568	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-10 11:58:08,640	k8sdeploy.log	finish generate jinjia
+2018-05-10 11:58:08,738	k8sdeploy.log	finish generate yaml
+2018-05-10 11:59:47,452	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-10 11:59:47,500	k8sdeploy.log	finish generate jinjia
+2018-05-10 11:59:47,585	k8sdeploy.log	finish generate yaml
+2018-05-10 12:04:16,221	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-10 12:04:16,281	k8sdeploy.log	finish generate jinjia
+2018-05-10 12:04:16,376	k8sdeploy.log	finish generate yaml
+2018-05-10 12:05:39,207	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-10 12:05:39,258	k8sdeploy.log	finish generate jinjia
+2018-05-10 12:05:39,347	k8sdeploy.log	finish generate yaml
+2018-05-10 12:10:29,864	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-10 12:10:29,913	k8sdeploy.log	finish generate jinjia
+2018-05-10 12:10:29,999	k8sdeploy.log	finish generate yaml
+2018-05-10 13:00:51,193	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-10 13:00:51,253	k8sdeploy.log	finish generate jinjia
+2018-05-10 13:00:51,335	k8sdeploy.log	finish generate yaml
+2018-05-10 13:02:59,912	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-10 13:02:59,979	k8sdeploy.log	finish generate jinjia
+2018-05-10 13:03:00,095	k8sdeploy.log	finish generate yaml
+2018-05-10 13:04:46,884	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-10 13:04:46,937	k8sdeploy.log	finish generate jinjia
+2018-05-10 13:04:47,031	k8sdeploy.log	finish generate yaml
+2018-05-10 13:07:28,421	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-10 13:07:28,487	k8sdeploy.log	finish generate jinjia
+2018-05-10 13:07:28,583	k8sdeploy.log	finish generate yaml
+2018-05-10 13:41:16,374	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-10 13:41:16,442	k8sdeploy.log	finish generate jinjia
+2018-05-10 13:41:16,539	k8sdeploy.log	finish generate yaml
+2018-05-10 15:31:58,013	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-10 15:31:58,064	k8sdeploy.log	finish generate jinjia
+2018-05-10 15:31:58,159	k8sdeploy.log	finish generate yaml
+2018-05-11 14:45:02,950	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-11 14:45:03,004	k8sdeploy.log	finish generate jinjia
+2018-05-11 14:45:03,100	k8sdeploy.log	finish generate yaml
+2018-05-11 16:05:22,709	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-11 16:05:22,786	k8sdeploy.log	finish generate jinjia
+2018-05-11 16:05:22,893	k8sdeploy.log	finish generate yaml
+2018-05-11 16:51:36,537	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-11 16:51:36,606	k8sdeploy.log	finish generate jinjia
+2018-05-11 16:51:36,699	k8sdeploy.log	finish generate yaml
+2018-05-11 18:14:01,288	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-11 18:14:01,340	k8sdeploy.log	finish generate jinjia
+2018-05-11 18:14:01,444	k8sdeploy.log	finish generate yaml
+2018-05-11 18:24:20,401	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-11 18:24:20,469	k8sdeploy.log	finish generate jinjia
+2018-05-11 18:24:20,589	k8sdeploy.log	finish generate yaml
+2018-05-11 18:39:39,513	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-11 18:39:39,574	k8sdeploy.log	finish generate jinjia
+2018-05-11 18:39:39,696	k8sdeploy.log	finish generate yaml
+2018-05-11 18:42:39,520	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-11 18:42:39,568	k8sdeploy.log	finish generate jinjia
+2018-05-11 18:42:39,652	k8sdeploy.log	finish generate yaml
+2018-05-11 18:47:13,362	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-11 18:47:13,442	k8sdeploy.log	finish generate jinjia
+2018-05-11 18:47:13,547	k8sdeploy.log	finish generate yaml
+2018-05-11 18:56:40,847	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-11 18:56:40,912	k8sdeploy.log	finish generate jinjia
+2018-05-11 18:56:41,003	k8sdeploy.log	finish generate yaml
+2018-05-11 18:59:25,678	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-11 18:59:25,738	k8sdeploy.log	finish generate jinjia
+2018-05-11 18:59:25,852	k8sdeploy.log	finish generate yaml
+2018-05-11 19:22:33,525	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-11 19:22:33,597	k8sdeploy.log	finish generate jinjia
+2018-05-11 19:22:33,694	k8sdeploy.log	finish generate yaml
+2018-05-11 19:33:43,867	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-11 19:33:43,930	k8sdeploy.log	finish generate jinjia
+2018-05-11 19:33:44,024	k8sdeploy.log	finish generate yaml
+2018-05-13 23:02:21,967	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-13 23:02:22,005	k8sdeploy.log	finish generate jinjia
+2018-05-13 23:02:22,092	k8sdeploy.log	finish generate yaml
+2018-05-13 23:37:40,788	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-13 23:37:40,875	k8sdeploy.log	finish generate jinjia
+2018-05-13 23:37:40,979	k8sdeploy.log	finish generate yaml
+2018-05-14 00:20:31,788	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-14 00:20:31,842	k8sdeploy.log	finish generate jinjia
+2018-05-14 00:20:31,931	k8sdeploy.log	finish generate yaml
+2018-05-14 23:31:24,250	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-14 23:31:24,308	k8sdeploy.log	finish generate jinjia
+2018-05-14 23:31:24,446	k8sdeploy.log	finish generate yaml
+2018-05-15 00:52:52,610	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-15 00:52:52,677	k8sdeploy.log	finish generate jinjia
+2018-05-15 00:52:52,775	k8sdeploy.log	finish generate yaml
+2018-05-15 00:56:07,551	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-15 00:56:07,629	k8sdeploy.log	finish generate jinjia
+2018-05-15 00:56:07,724	k8sdeploy.log	finish generate yaml
+2018-05-15 01:03:08,855	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-15 01:03:08,926	k8sdeploy.log	finish generate jinjia
+2018-05-15 01:03:09,020	k8sdeploy.log	finish generate yaml
+2018-05-15 01:14:45,519	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-15 01:14:45,598	k8sdeploy.log	finish generate jinjia
+2018-05-15 01:14:45,704	k8sdeploy.log	finish generate yaml
+2018-05-15 01:21:19,889	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-15 01:21:19,898	k8sdeploy.log	finish generate jinjia
+2018-05-15 01:21:19,964	k8sdeploy.log	finish generate yaml
+2018-05-15 01:22:49,626	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-15 01:22:49,637	k8sdeploy.log	finish generate jinjia
+2018-05-15 01:22:49,711	k8sdeploy.log	finish generate yaml
+2018-05-15 10:07:20,407	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-15 10:07:20,417	k8sdeploy.log	finish generate jinjia
+2018-05-15 10:07:20,490	k8sdeploy.log	finish generate yaml
+2018-05-15 10:21:24,950	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-15 10:21:24,976	k8sdeploy.log	finish generate jinjia
+2018-05-15 10:21:25,061	k8sdeploy.log	finish generate yaml
+2018-05-15 10:33:08,626	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-15 10:33:08,634	k8sdeploy.log	finish generate jinjia
+2018-05-15 10:33:08,699	k8sdeploy.log	finish generate yaml
+2018-05-15 10:36:20,614	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-15 10:36:20,629	k8sdeploy.log	finish generate jinjia
+2018-05-15 10:36:20,708	k8sdeploy.log	finish generate yaml
+2018-05-15 14:16:59,762	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-15 14:16:59,774	k8sdeploy.log	finish generate jinjia
+2018-05-15 14:16:59,935	k8sdeploy.log	finish generate yaml
+2018-05-15 14:25:44,244	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-15 14:25:44,256	k8sdeploy.log	finish generate jinjia
+2018-05-15 14:25:44,322	k8sdeploy.log	finish generate yaml
+2018-05-15 14:38:29,413	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-15 14:38:29,430	k8sdeploy.log	finish generate jinjia
+2018-05-15 14:38:29,516	k8sdeploy.log	finish generate yaml
+2018-05-15 15:02:19,020	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-15 15:02:19,036	k8sdeploy.log	finish generate jinjia
+2018-05-15 15:02:19,125	k8sdeploy.log	finish generate yaml
+2018-05-15 15:13:55,278	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-15 15:13:55,290	k8sdeploy.log	finish generate jinjia
+2018-05-15 15:13:55,380	k8sdeploy.log	finish generate yaml
+2018-05-15 15:32:47,665	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-15 15:32:47,681	k8sdeploy.log	finish generate jinjia
+2018-05-15 15:32:47,770	k8sdeploy.log	finish generate yaml
+2018-05-15 16:01:01,902	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-15 16:01:01,916	k8sdeploy.log	finish generate jinjia
+2018-05-15 16:01:01,988	k8sdeploy.log	finish generate yaml
+2018-05-15 16:03:05,276	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-15 16:03:05,292	k8sdeploy.log	finish generate jinjia
+2018-05-15 16:03:05,382	k8sdeploy.log	finish generate yaml
+2018-05-15 16:07:01,367	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-15 16:07:01,378	k8sdeploy.log	finish generate jinjia
+2018-05-15 16:07:01,447	k8sdeploy.log	finish generate yaml
+2018-05-15 16:15:00,979	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-15 16:15:00,995	k8sdeploy.log	finish generate jinjia
+2018-05-15 16:15:01,086	k8sdeploy.log	finish generate yaml
+2018-05-15 16:15:44,889	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-15 16:15:44,905	k8sdeploy.log	finish generate jinjia
+2018-05-15 16:15:44,990	k8sdeploy.log	finish generate yaml
+2018-05-15 16:30:06,837	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-15 16:30:06,848	k8sdeploy.log	finish generate jinjia
+2018-05-15 16:30:06,913	k8sdeploy.log	finish generate yaml
+2018-05-15 17:02:08,478	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-15 17:02:08,497	k8sdeploy.log	finish generate jinjia
+2018-05-15 17:02:08,592	k8sdeploy.log	finish generate yaml
+2018-05-15 17:05:47,248	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-15 17:05:47,265	k8sdeploy.log	finish generate jinjia
+2018-05-15 17:05:47,330	k8sdeploy.log	finish generate yaml
+2018-05-15 17:41:28,686	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-15 17:41:28,702	k8sdeploy.log	finish generate jinjia
+2018-05-15 17:41:28,788	k8sdeploy.log	finish generate yaml
+2018-05-15 17:50:20,085	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-15 17:50:20,101	k8sdeploy.log	finish generate jinjia
+2018-05-15 17:50:20,180	k8sdeploy.log	finish generate yaml
+2018-05-15 18:02:11,200	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-15 18:02:11,216	k8sdeploy.log	finish generate jinjia
+2018-05-15 18:02:11,288	k8sdeploy.log	finish generate yaml
+2018-05-15 18:23:02,530	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-15 18:23:02,546	k8sdeploy.log	finish generate jinjia
+2018-05-15 18:23:02,623	k8sdeploy.log	finish generate yaml
+2018-05-15 18:25:12,829	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-15 18:25:12,840	k8sdeploy.log	finish generate jinjia
+2018-05-15 18:25:12,906	k8sdeploy.log	finish generate yaml
+2018-05-15 18:27:01,027	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-15 18:27:01,046	k8sdeploy.log	finish generate jinjia
+2018-05-15 18:27:01,136	k8sdeploy.log	finish generate yaml
+2018-05-15 18:32:05,543	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-15 18:32:05,560	k8sdeploy.log	finish generate jinjia
+2018-05-15 18:32:05,646	k8sdeploy.log	finish generate yaml
+2018-05-16 11:57:50,241	k8sdeploy.log	deploy_dir is:./deploy
+2018-05-16 11:57:50,255	k8sdeploy.log	finish generate jinjia
+2018-05-16 11:57:50,341	k8sdeploy.log	finish generate yaml
